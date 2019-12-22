@@ -24,7 +24,7 @@ def modulo(num1, num2)
 
   rem = num2 / num1
 
-  rem.remainder()
+  remainder(rem)
 
 end
 
