@@ -22,9 +22,9 @@ end
 
 def modulo(num1, num2)
 
-  rem = num2 / num1
+  rem = num2 % num1
 
-  remainder(rem)
+rem
 
 end
 
